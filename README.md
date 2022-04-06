@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gianluca Melis</h1>
-<h3 align="center">A passionate developer from Italy</h3>
+<h3 align="center">On my way to became a Junior Full Stack Developer from Italy</h3>
 
-- 🌱 I’m currently studyng **at the TNV Accademy to became Junior Full Stack Developer**
+- 🌱 I’m currently a student **at the TNV Accademy**
 
 - 📫 How to reach me **melis.gianluca90@gmail.com**
 
